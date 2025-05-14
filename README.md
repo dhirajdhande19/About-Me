@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Dhiraj
 
 ## 🚀 About Me
-- 🔭 I’m currently working on Hackthon Project !!
+- 🔭 I’m currently working on Hackthon Project and some new projects 👨‍💻!!
 - 🌱 I’m currently learning MERN Stack and Python to build some cool ML projects.
 - 👯 I’m open to collaborating on any interesting coding projects, especially those with a focus on innovation.
 - 🤔 I’m looking for help with: Learning more about AI/ML model evaluation and real-time applications.

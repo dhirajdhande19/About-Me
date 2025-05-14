@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I’m in the middle of MLH Week One and it’s been a great way to challenge myself, collaborate with others, and expand my coding knowledge!
 
 ## 🛠️ Skills
-![Your Skills](https://skillicons.dev/icons?i=html,css,js,node.js,express.js,bootstrap,git,github)
+![Your Skills](https://skillicons.dev/icons?i=html,css,js,node,express,bootstrap,git,github)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajdhande19&show_icons=true&theme=radical)
